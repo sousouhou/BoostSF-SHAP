@@ -1,1 +1,1 @@
-# PyBoostSFE
+# BoostSF-SHAP
