@@ -1,0 +1,51 @@
+* The used model is : {./models/catboost-model01/trained-model.cbm}
+    
+* The path of receptor file is : { ./test/1a30_protein.pdbqt }
+* The path of ligand file is : { ./test/1a30_ligand.pdbqt }
+
+* The calculated features is :
+Note: Feature C/C represents C(in receptor)/C(in ligand).
+   2562.0000  # C/C
+    701.0000  # N/C
+    742.0000  # O/C
+      2.0000  # S/C
+    478.0000  # C/N
+    135.0000  # N/N
+    139.0000  # O/N
+      1.0000  # S/N
+   1366.0000  # C/O
+    377.0000  # N/O
+    414.0000  # O/O
+      1.0000  # S/O
+      0.0000  # C/S
+      0.0000  # N/S
+      0.0000  # O/S
+      0.0000  # S/S
+      0.0000  # C/P
+      0.0000  # N/P
+      0.0000  # O/P
+      0.0000  # S/P
+      0.0000  # C/F
+      0.0000  # N/F
+      0.0000  # O/F
+      0.0000  # S/F
+      0.0000  # C/Cl
+      0.0000  # N/Cl
+      0.0000  # O/Cl
+      0.0000  # S/Cl
+      0.0000  # C/Br
+      0.0000  # N/Br
+      0.0000  # O/Br
+      0.0000  # S/Br
+      0.0000  # C/I
+      0.0000  # N/I
+      0.0000  # O/I
+      0.0000  # S/I
+     85.6817  # gauss1(inter)
+   1306.8160  # gauss2(inter)
+      4.7111  # repulsion(inter)
+     20.4932  # hydrophobic(inter)
+      3.5947  # Hydrogen(inter)
+
+* The predicted binding affinity is : 5.8629
+    

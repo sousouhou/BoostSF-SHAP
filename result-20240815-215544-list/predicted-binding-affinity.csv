@@ -1,0 +1,4 @@
+predicted binding affinity,receptor-ligand
+      5.8629,  ./test/1a30_protein.pdbqt; ./test/1a30_ligand.pdbqt
+      4.1986,  ./test/1bcu_protein.pdbqt; ./test/1bcu_ligand.pdbqt
+      4.4817,  ./test/1c5z_protein.pdbqt; ./test/1c5z_ligand.pdbqt
