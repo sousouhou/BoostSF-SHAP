@@ -1,0 +1,23 @@
+* This model is trained on the following data:
+{ ../data/pdbbind-2020refined-exclude-2016core-x41features.csv }
+{ ../data/pdbbind-2020refined-exclude-2016core-y.txt }
+
+The number of samples is: 5048.
+The number of features is: 41.
+
+* The training data are extracted from the following PDBs, which are listed in:
+{ ../data/pdbbind-2020refined-exclude-2016core-pdbnamelist.txt } 
+
+
+--------------------
+
+* This model is tested on the following data:
+{ ../data/pdbbind-2016core-x41features.csv }
+{ ../data/pdbbind-2016core-y.txt }
+
+The number of samples is: 285.
+The number of features is: 41.
+
+* The test data are extracted from the following PDBs, which are listed in:
+{ ../data/pdbbind-2016core-pdbnamelist.txt }
+    
