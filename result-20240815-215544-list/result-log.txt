@@ -1,1 +1,0 @@
-* The used model is : {./models/catboost-model01/trained-model.cbm}
